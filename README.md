@@ -1,4 +1,7 @@
 # projekt_SO
+![image](https://user-images.githubusercontent.com/80480304/215554416-e7b0f32c-2895-4808-bf58-66fba3ad918a.png)
+
+
 Projekt na zaliczenie przedmiotu Systemy Operacyjne 
 K1: Kolejka komunikatów K2: Plik
 ProjektOpracować zestaw programów typu producent -konsument realizujących następujący schemat synchronicznej komunikacji międzyprocesowej:
