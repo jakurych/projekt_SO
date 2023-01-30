@@ -3,8 +3,11 @@
 
 
 Projekt na zaliczenie przedmiotu Systemy Operacyjne 
+
 K1: Kolejka komunikatów K2: Plik
+
 ProjektOpracować zestaw programów typu producent -konsument realizujących następujący schemat synchronicznej komunikacji międzyprocesowej:
+
 Proces 1:czyta  dane  ze  standardowego  strumienia  wejściowego iprzekazuje  je  w  niezmienionej  formie  do procesu  2poprzez  mechanizm komunikacyjny K1.
 
 Proces 2: pobiera  dane  przesłane  przez proces   1.   Konwertuje   dane otrzymane z procesu 1 do postaci heksadecymalnej i przekazuje do procesu 3 poprzez mechanizm komunikacyjny K2.
