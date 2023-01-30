@@ -1,5 +1,5 @@
 # projekt_SO
-![image](https://user-images.githubusercontent.com/80480304/215554416-e7b0f32c-2895-4808-bf58-66fba3ad918a.png)
+
 
 
 Projekt na zaliczenie przedmiotu Systemy Operacyjne 
@@ -11,6 +11,9 @@ Proces 2: pobiera  dane  przesłane  przez proces   1.   Konwertuje   dane otrzy
 
 Proces 3:pobiera  dane  wyprodukowane  przez proces  2 i wypisuje  je  na standardowym strumieniu diagnostycznym. 
 
+![image](https://user-images.githubusercontent.com/80480304/215554416-e7b0f32c-2895-4808-bf58-66fba3ad918a.png)
+
+DALSZA CZĘŚĆ POLECENIA:
 Jednostki danych powinny zostać wyprowadzone po 15 w pojedynczym wierszu i oddzielone spacjami.
 Wszystkie trzy procesy powinny być powoływane automatycznie z jednego procesu inicjującego. 
 Po powołaniu procesów potomnych proces inicjujący wstrzymuje pracę. 
