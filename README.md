@@ -2,7 +2,7 @@
 
 
 
-Projekt na zaliczenie przedmiotu Systemy Operacyjne 
+Synchroniczna komunikacja międzyprocesowa
 
 K1: Kolejka komunikatów K2: Plik
 
